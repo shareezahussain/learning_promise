@@ -1,0 +1,51 @@
+body {
+    background-color: #FAFAFA;
+}
+
+.container {
+    text-align: center;
+}
+
+.h1 {
+    margin: 1rem;
+}
+
+em {
+    font-size: 0.7em;
+}
+
+li {
+    list-style-type: none;
+}
+
+.product {
+    display: inline-block;
+    padding: 2rem;
+    &__container {
+        display: flex;
+        @media only screen and (max-width: 768px) {
+            flex-direction: column;
+        }
+    }
+    &__details {
+        text-align: center;
+        overflow: auto;
+        width: 10rem;
+        margin: 0 auto;
+        &--price {
+            color: green;
+            font-weight: bolder;
+            padding-top: 0.2em;
+        }
+    }
+}
+
+.page__pagination {
+    width: fit-content;
+    margin: auto;
+}
+
+.page__link--color,
+.page__link--color:hover {
+    color: #FF1493;
+}
