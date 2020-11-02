@@ -7,7 +7,7 @@ I consume the shopstyle collective app api to build an everything pink app - oup
 
 link to the application https://shareezahussain.github.io/learning_promise/dist/index.html
 
-Technologies I've used
+Technologies  I've used
 
 (1) Parcel 
 (2) ES6 js - promise, arrow functions etc
@@ -15,6 +15,7 @@ Technologies I've used
 Reference - https://buddy.works/guides/git-crypt
 (4) Sass, Bootstrap 
 
+I also worked with Pagination with APIs
 
 
 
