@@ -1,5 +1,7 @@
 # learning_promise
 
+Fashionista, who favourite color is pink, won't it be a cool to have one place that you can go so you can see everything that's pink?
+
 in order to run this application on your machine 
 run npm install
 
